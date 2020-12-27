@@ -1,0 +1,8 @@
+raccourci vs code
+cursor = sélection
+
+ctrl shift P 			palette
+shift up/down 			create selection up/down	
+ctrl alt up/down		add selection up/down
+alt clic (clic to cancel)	create others cursors
+ctrl+shift+L			select the same word everywhere
