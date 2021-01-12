@@ -6,3 +6,7 @@ shift up/down 			    create selection up/down
 ctrl alt up/down		    add selection up/down
 alt clic (clic to cancel)	create others cursors
 ctrl+shift+L			    select the same word everywhere
+ctrl+PgDown/up              change editor file
+ctrl+alt+N                  run code
+ctrl+alt+M                  stop code(when in output)
+ctrl+F4                     close the window
